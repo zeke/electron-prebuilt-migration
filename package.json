@@ -1,0 +1,16 @@
+{
+  "name": "electron-prebuilt-migration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com)",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^2.0.0",
+    "github-change-remote-file": "^1.1.0"
+  }
+}
